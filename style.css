@@ -7,8 +7,8 @@ body{
     gap: 30px;
 }
 .sidebar{
-    background-color: #000000;
-    color : rgb(0, 0, 0);
+    background-color: #211753;
+    color : rgb(144, 177, 235);
     width: 200px;
     padding: 15px;
 }
@@ -22,7 +22,7 @@ body{
 
 .main {
     margin-right: 550px;
-    background-color: #0020ff;
+    background-color: #FEFEFF;
 }
 .contact {
     margin: 10px;
