@@ -1,7 +1,7 @@
 
 body{
     font-family: Arial, sans-serif;
-    margin: 40%;
+    margin: 20%;
     display: flex;
     background-color: #FEFEFF;
     gap: 30px;
@@ -21,7 +21,7 @@ body{
 }
 
 .main {
-    margin-right: 550px;
+    margin-right: 1000px;
     background-color: #FEFEFF;
 }
 .contact {
